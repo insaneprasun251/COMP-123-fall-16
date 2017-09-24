@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HW3/.idea/HW3.iml" filepath="$PROJECT_DIR$/../HW3/.idea/HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HW4/.idea/HW4.iml" filepath="$PROJECT_DIR$/../HW4/.idea/HW4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct03/.idea/Oct03.iml" filepath="$PROJECT_DIR$/../Oct03/.idea/Oct03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct07/.idea/Oct07.iml" filepath="$PROJECT_DIR$/../Oct07/.idea/Oct07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct10/.idea/Oct10.iml" filepath="$PROJECT_DIR$/../Oct10/.idea/Oct10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct12/.idea/Oct12.iml" filepath="$PROJECT_DIR$/../Oct12/.idea/Oct12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct14/.idea/Oct14.iml" filepath="$PROJECT_DIR$/../Oct14/.idea/Oct14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct17/.idea/Oct17.iml" filepath="$PROJECT_DIR$/../Oct17/.idea/Oct17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct19/.idea/Oct19.iml" filepath="$PROJECT_DIR$/../Oct19/.idea/Oct19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct24/.idea/Oct24.iml" filepath="$PROJECT_DIR$/../Oct24/.idea/Oct24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct26/.idea/Oct26.iml" filepath="$PROJECT_DIR$/../Oct26/.idea/Oct26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oct05/.idea/Oct5.iml" filepath="$PROJECT_DIR$/../Oct05/.idea/Oct5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sept26.iml" filepath="$PROJECT_DIR$/.idea/Sept26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sept30/.idea/Sept30.iml" filepath="$PROJECT_DIR$/../Sept30/.idea/Sept30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scratch/.idea/scratch.iml" filepath="$PROJECT_DIR$/../scratch/.idea/scratch.iml" />
+    </modules>
+  </component>
+</project>

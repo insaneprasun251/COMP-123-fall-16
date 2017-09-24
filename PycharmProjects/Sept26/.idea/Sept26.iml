@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.5.2 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Sept30" />
+    <orderEntry type="module" module-name="scratch" />
+    <orderEntry type="module" module-name="Oct03" />
+    <orderEntry type="module" module-name="Oct5" />
+    <orderEntry type="module" module-name="HW3" />
+    <orderEntry type="module" module-name="Oct5" />
+    <orderEntry type="module" module-name="Oct07" />
+    <orderEntry type="module" module-name="Oct10" />
+    <orderEntry type="module" module-name="Oct12" />
+    <orderEntry type="module" module-name="Oct14" />
+    <orderEntry type="module" module-name="HW4" />
+    <orderEntry type="module" module-name="Oct17" />
+    <orderEntry type="module" module-name="Oct19" />
+    <orderEntry type="module" module-name="Oct24" />
+    <orderEntry type="module" module-name="Oct26" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
