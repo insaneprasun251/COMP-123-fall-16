@@ -2,7 +2,7 @@ import turtle
 import math
 
 win = turtle.Screen()
-win.bgcolor("darkorange")
+win.bgcolor("red")
 
 turtleA = turtle.Turtle()
 turtleA.speed(6)
@@ -580,7 +580,7 @@ turtleA.goto(250 - 50, -round(100 * (1 + math.sqrt(2)) / 2))
 turtleA.down()
 
 turtleA.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleA.forward(100)
 turtleA.left(45)
 turtleA.forward(100)
@@ -607,7 +607,7 @@ turtleB.goto(250 - 32,  - round(64 * (1 + math.sqrt(2)) / 2))
 turtleB.down()
 
 turtleB.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleB.forward(64)
 turtleB.left(45)
 turtleB.forward(64)
@@ -634,7 +634,7 @@ turtleC.goto(250 - 18, - round(36 * (1 + math.sqrt(2)) / 2))
 turtleC.down()
 
 turtleC.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleC.forward(36)
 turtleC.left(45)
 turtleC.forward(36)
@@ -661,7 +661,7 @@ turtleD.goto(250 - 8, - round(16 * (1 + math.sqrt(2)) / 2))
 turtleD.down()
 
 turtleD.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleD.forward(16)
 turtleD.left(45)
 turtleD.forward(16)
@@ -693,7 +693,7 @@ turtleA.goto(- 250 - 50, - round(100 * (1 + math.sqrt(2)) / 2))
 turtleA.down()
 
 turtleA.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleA.forward(100)
 turtleA.left(45)
 turtleA.forward(100)
@@ -720,7 +720,7 @@ turtleB.goto(- 250 - 32, - round(64 * (1 + math.sqrt(2)) / 2))
 turtleB.down()
 
 turtleB.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleB.forward(64)
 turtleB.left(45)
 turtleB.forward(64)
@@ -747,7 +747,7 @@ turtleC.goto(- 250 - 18, - round(36 * (1 + math.sqrt(2)) / 2))
 turtleC.down()
 
 turtleC.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleC.forward(36)
 turtleC.left(45)
 turtleC.forward(36)
@@ -774,7 +774,7 @@ turtleD.goto(- 250 - 8, - round(16 * (1 + math.sqrt(2)) / 2))
 turtleD.down()
 
 turtleD.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleD.forward(16)
 turtleD.left(45)
 turtleD.forward(16)
@@ -806,7 +806,7 @@ turtleA.goto(250 - 50, -250 - round(100 * (1 + math.sqrt(2)) / 2))
 turtleA.down()
 
 turtleA.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleA.forward(100)
 turtleA.left(45)
 turtleA.forward(100)
@@ -833,7 +833,7 @@ turtleB.goto(250 - 32, -250 - round(64 * (1 + math.sqrt(2)) / 2))
 turtleB.down()
 
 turtleB.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleB.forward(64)
 turtleB.left(45)
 turtleB.forward(64)
@@ -860,7 +860,7 @@ turtleC.goto(250 - 18, -250 - round(36 * (1 + math.sqrt(2)) / 2))
 turtleC.down()
 
 turtleC.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleC.forward(36)
 turtleC.left(45)
 turtleC.forward(36)
@@ -887,7 +887,7 @@ turtleD.goto(250 - 8, -250 - round(16 * (1 + math.sqrt(2)) / 2))
 turtleD.down()
 
 turtleD.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleD.forward(16)
 turtleD.left(45)
 turtleD.forward(16)
@@ -919,7 +919,7 @@ turtleA.goto(-250 - 50, -250 - round(100 * (1 + math.sqrt(2)) / 2))
 turtleA.down()
 
 turtleA.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleA.forward(100)
 turtleA.left(45)
 turtleA.forward(100)
@@ -946,7 +946,7 @@ turtleB.goto(-250 - 32, -250 - round(64 * (1 + math.sqrt(2)) / 2))
 turtleB.down()
 
 turtleB.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleB.forward(64)
 turtleB.left(45)
 turtleB.forward(64)
@@ -973,7 +973,7 @@ turtleC.goto(-250 - 18, -250 - round(36 * (1 + math.sqrt(2)) / 2))
 turtleC.down()
 
 turtleC.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleC.forward(36)
 turtleC.left(45)
 turtleC.forward(36)
@@ -1000,7 +1000,7 @@ turtleD.goto(-250 - 8, -250 - round(16 * (1 + math.sqrt(2)) / 2))
 turtleD.down()
 
 turtleD.begin_fill()
-# This can be replaced with our first for loop again.
+# This can be replaced with our first (for loop) again.
 turtleD.forward(16)
 turtleD.left(45)
 turtleD.forward(16)
